@@ -38,8 +38,8 @@ https://github.com/cancundeyingzi/tts-zhuanlumaikefeng/releases/tag/999999999999
 直接解压到main.exe的目录,最终应该如图所示(后面还有一些截图截不下了)    
 ![image](https://user-images.githubusercontent.com/73635883/192148038-38455b28-baea-45bb-bb2d-89ab06c5624e.png)
 ## 如果还闪退
-如图输入cmd,回车
+如图输入cmd,回车             
 ![image](https://user-images.githubusercontent.com/73635883/192148068-5faf5101-37a1-43e2-aafa-283c58979b99.png)
-输入main.exe,回车
+输入main.exe,回车              
 ![image](https://user-images.githubusercontent.com/73635883/192148110-7dfaf260-e518-4fe3-bb46-d7124564e6f7.png)
 然后怎么闪退你操作一遍,这次就会输出报错信息不闪退了...你把报错的内容发我看看,我修复一下.
