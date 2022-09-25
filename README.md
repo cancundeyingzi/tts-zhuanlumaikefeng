@@ -4,6 +4,8 @@
 需要声音转发软件,下面的这个链接可以下载.
 https://github.com/cancundeyingzi/tts-zhuanlumaikefeng/releases/tag/99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 ### 简单使用教程
+视频教程:https://www.bilibili.com/video/BV11e411K7MY/
+
 首次使用:
 
 1: 把main.exe,peizhi.xml放一起(不建议放桌面,创建个快捷方式就行了)
