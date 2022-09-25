@@ -21,3 +21,6 @@ https://github.com/cancundeyingzi/tts-zhuanlumaikefeng/releases/tag/999999999999
 (像上图中我把6改成7即可)
 
 5: 再次打开main.exe,输入你要转录的内容即可,记得打开你的录音机并使用虚拟麦克风进行录音!
+
+
+###  后续使用仅需执行第五步,除非你新建/删除了声卡
