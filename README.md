@@ -44,3 +44,24 @@ https://github.com/cancundeyingzi/tts-zhuanlumaikefeng/releases/tag/999999999999
 输入main.exe,回车              
 ![image](https://user-images.githubusercontent.com/73635883/192148110-7dfaf260-e518-4fe3-bb46-d7124564e6f7.png)               
 然后怎么闪退你操作一遍,这次就会输出报错信息不闪退了...你把报错的内容发我看看,我修复一下.
+## win7等提示无法启动此程序丢失api-ms-win-core.........    
+还是上面配套软件下载把api-ms-win-core-path-l1-1-0.dll放到你的系统路径。它的默认路径是在：   
+C:\Windows\System (Windows 95/98/Me),   
+C:\WINNT\System32 (Windows NT/2000),   
+C:\Windows\System32 (Windows XP, Vista, 7, 8, 8.1, 10).   
+在 64位 Windows 上，32位 DLL 文件的默认路径是C:\Windows\SysWOW64\，    
+64 位 DLL 文件在C:\Windows\System32\ 。       
+重启电脑。     
+如果问题仍未解决，按以下步骤注册 DLL 文件：         
+32 位 DLL 文件用在 32 位 Windows 上，64 位 DLL 文件用在 64 位 Windows 上：             
+打开一个提升权限运行的命令行窗口。          
+具体操作是点击“开始”，点击“所有程序”，点击“附件”，右键点击“命令提示符”，然后点击“以管理员权限运行”。          
+在 Windows 8/10 中，前往“开始”界面。键入“cmd”， Windows 会找到“命令行提示符”。右键点击“命令提示符”，选择“以管理员权限运行”。      
+如果要求输入管理员密码或确认，输入密码，或点击“允许”。        
+输入 regsvr32 “filename".dll 然后按下回车。            
+将 32 位 DLL 文件注册到一台 64 位 Windows 上：          
+按前述方法打开一个提升权限运行的命令行窗口。          
+在命令行中键入：        
+cd c:\windows\syswow64\         
+然后键入以下命令并回车：           
+regsvr32 c:\windows\syswow64\"filename".dll           
