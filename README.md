@@ -27,7 +27,7 @@ https://github.com/cancundeyingzi/tts-zhuanlumaikefeng/releases/tag/999999999999
 https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/#features   中文体验测试            
 https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/language-support?tabs=stt-tts           外语朗读人列表           
 # 出错解决方法
-大概率你没配置ffmpeg的环境变量,你可以自己去下载,也可以去上面配套软件下载那边下载ffmpeg.7z压缩包.         
+没配置ffmpeg的环境变量,你可以自己去下载,也可以去上面配套软件下载那边下载ffmpeg.7z压缩包.         
 直接解压到main.exe的目录,最终应该如图所示(后面还有一些截图截不下了)           
 ![image](https://user-images.githubusercontent.com/73635883/192148038-38455b28-baea-45bb-bb2d-89ab06c5624e.png)
 ## ~~如果还闪退~~         
