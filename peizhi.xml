@@ -1,0 +1,32 @@
+<root>下面每一个都不能留空,否则程序直接崩溃
+	<置顶>0</置顶>1是置顶,别的是正常
+	<音色>zh-CN-XiaoxiaoNeural</音色>zh-CN-XiaoxiaoNeural
+	<语速>-10</语速>范围: 负100--正200,默认0,越小速度越慢
+	<音调>0</音调>范围: 正负50,默认0,越小声音越低沉
+
+自动去除空格
+支持置顶
+不限制字数
+自定义说话风格
+支持没听清复述一次
+缺点: 微软境外服务器,可能网络不稳定,,但是要稳定只能付钱了,,,好贵的..$16/1M 字符-50w
+中文（粤语，繁体）	zh-HK	Female	zh-HK-HiuGaaiNeural	常规
+中文（粤语，繁体）	zh-HK	Female	zh-HK-HiuMaanNeural	常规
+中文(粤语，繁体)	 zh-HK	男	zh-HK-WanLungNeural	常规
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaochenNeural	针对自发对话进行了优化
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaohanNeural	常规，使用 SSML 提供多种风格
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaomoNeural	常规，使用 SSML 提供多种角色扮演和风格
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaoqiuNeural	针对叙事进行了优化
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaoruiNeural	高级语音，使用 SSML 提供多种风格
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaoshuangNeural	儿童语音，针对儿童故事和聊天进行了优化；使用 SSML 提供多种语音风格
+中文（普通话，简体）	zh-CN	Female	zh-CN-XiaoxiaoNeural	常规，使用 SSML 提供多种语音风格
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaoxuanNeural	常规，使用 SSML 提供多种角色扮演和风格
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaoyanNeural	针对客户服务进行了优化
+中文（普通话，简体）	zh-CN	女	zh-CN-XiaoyouNeural	儿童语音，针对讲故事进行了优化
+中文（普通话，简体）	zh-CN	男	zh-CN-YunxiNeural	常规，使用 SSML 提供多种风格
+中文（普通话，简体）	zh-CN	男	zh-CN-YunyangNeural	针对新闻阅读进行了优化，使用 SSML 提供多种语音风格
+中文（普通话，简体）	zh-CN	男	zh-CN-YunyeNeural	针对使用 SSML 提供的故事讲述、多种角色扮演和风格进行了优化
+中文(台湾普通话)	zh-TW	Female	zh-TW-HsiaoChenNeural	常规
+中文(台湾普通话)	 zh-TW	Female	zh-TW-HsiaoYuNeural	常规
+中文(台湾普通话)	 zh-TW	男	zh-TW-YunJheNeural	常规')
+</root>
