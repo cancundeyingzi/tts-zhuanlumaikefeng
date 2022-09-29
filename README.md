@@ -4,7 +4,7 @@
 ![IMG_0854](https://user-images.githubusercontent.com/73635883/192942723-fb40c5c1-11eb-4088-967e-7e06efdd3311.PNG)
 
 特点:     
- 自动去除空格   
+ 自动去除不小心输入的空格   
  支持置顶    
  不限制字数   
  自定义说话风格   
