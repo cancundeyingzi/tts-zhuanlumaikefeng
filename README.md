@@ -60,4 +60,4 @@ C:\Windows\System32 (Windows XP, Vista, 7, 8, 8.1, 10).
 在命令行中键入：        
 cd c:\windows\syswow64\         
 然后键入以下命令并回车：           
-regsvr32 c:\windows\syswow64\"filename".dll           
+regsvr32 c:\windows\syswow64\"filename".dll~~           
