@@ -40,7 +40,7 @@ https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/langua
 输入main.exe,回车    
 ![image](https://user-images.githubusercontent.com/73635883/192148110-7dfaf260-e518-4fe3-bb46-d7124564e6f7.png)               
 然后怎么闪退你操作一遍,这次就会输出报错信息不闪退了...你把报错的内容发我看看,我修复一下.            
-~~## win7等提示无法启动此程序丢失api-ms-win-core
+## ~~win7等提示无法启动此程序丢失api-ms-win-core
 还是上面配套软件下载把api-ms-win-core-path-l1-1-0.dll放到你的系统路径。它的默认路径是在：   
 C:\Windows\System (Windows 95/98/Me),   
 C:\WINNT\System32 (Windows NT/2000),   
