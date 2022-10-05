@@ -21,30 +21,27 @@
 https://github.com/cancundeyingzi/tts-zhuanlumaikefeng/releases/tag/99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 ### 简单使用教程
 视频教程:https://www.bilibili.com/video/BV11e411K7MY/       
-首次使用:         
-1: 解压,打开main.exe或者tts.exe  
-~~2: 打开main.exe,寻找虚拟扬声器,并记住前面的代码(如果有好几个一样的随便记一个就行),比如下图~~        
-~~(分辨麦克风扬声器的窍门:'maxInputChannels': 0说明是扬声器.....'maxOutputChannels': 0是麦克风....)~~         
-![image](https://user-images.githubusercontent.com/73635883/192142590-80a94a28-f07a-4313-9c4c-32f3975ffafa.png)            
-~~3: 关闭软件,用记事本打开peizhi.xml~~         
-~~4: 将<虚拟扬声器设备id>6</虚拟扬声器设备id>中间的数字改成第二步中你记住的代码~~         
-~~(像上图中我把6改成7即可)~~          
-5: 输入你要转录的内容即可,记得打开你的录音机并调用虚拟麦克风进行录音!              
+主要功能:         
+1: 解压,打开main.exe或者tts.exe          
+2: 输入你要转录的内容即可,记得打开你的录音机并调用虚拟麦克风进行录音!              
+附加功能:
+1: 播放本地音频:支持标准mp3.flac,ogg.删除软件目录下的一切音频文件,把你要放的音频复制到软件目录下,重命名成1.在软件显示输入--直接回车就复述上一句时回车
+2: 修改语气,朗读文本文档(txt):在软件显示输入--直接回车就复述上一句时输入$$$风格选择,或者$$$文件,,如果忘记了,可以输入$$$查看当前支持的$$$即时菜单
 ### 进阶朗读设置:    
-自己看peizhi.xml,或者打开软件输入$$$
+自己看peizhi.xml,         
 https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/#features   中文体验测试            
 https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/language-support?tabs=stt-tts           外语朗读人列表           
 # 出错解决方法
 没配置ffmpeg的环境变量,你可以自己去下载,也可以去上面配套软件下载那边下载ffmpeg.7z压缩包.         
 直接解压到main.exe的目录,最终应该如图所示(后面还有一些截图截不下了)           
 ![image](https://user-images.githubusercontent.com/73635883/192148038-38455b28-baea-45bb-bb2d-89ab06c5624e.png)
-## ~~如果还闪退~~         
-~~如图输入cmd,回车~~                    
+## 如果还闪退         
+如图输入cmd,回车                    
 ![image](https://user-images.githubusercontent.com/73635883/192148068-5faf5101-37a1-43e2-aafa-283c58979b99.png)             
-~~输入main.exe,回车~~    
+输入main.exe,回车    
 ![image](https://user-images.githubusercontent.com/73635883/192148110-7dfaf260-e518-4fe3-bb46-d7124564e6f7.png)               
-~~然后怎么闪退你操作一遍,这次就会输出报错信息不闪退了...你把报错的内容发我看看,我修复一下.~~            
-## win7等提示无法启动此程序丢失api-ms-win-core
+然后怎么闪退你操作一遍,这次就会输出报错信息不闪退了...你把报错的内容发我看看,我修复一下.            
+~~## win7等提示无法启动此程序丢失api-ms-win-core
 还是上面配套软件下载把api-ms-win-core-path-l1-1-0.dll放到你的系统路径。它的默认路径是在：   
 C:\Windows\System (Windows 95/98/Me),   
 C:\WINNT\System32 (Windows NT/2000),   
