@@ -19,7 +19,7 @@
 ### 配套软件下载
 https://github.com/cancundeyingzi/tts-zhuanlumaikefeng/releases/tag/99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 ### 简单使用教程
-视频教程:https://www.bilibili.com/video/BV11e411K7MY/       
+视频教程:https://www.bilibili.com/video/BV1pt4y1c73o/     
 主要功能:         
 1: 解压,打开main.exe或者tts.exe          
 2: 输入你要转录的内容即可,记得打开你的录音机并调用虚拟麦克风进行录音!              
