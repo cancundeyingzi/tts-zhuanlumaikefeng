@@ -1,6 +1,6 @@
 # tts转录到麦克风
 注意:gitee版本已发现各种bug,遇到任何问题以github上发布的为准.gitee目前只是自动复制github          
-已知问题:英语空格，修复之前可以用减号替代。其他语言的音色无法运行      
+已知问题:英语空格(已实现)，修复之前可以用减号替代。其他语言的音色无法运行      
 长期计划:简易gui，翻译，伪声(角色扮演)支持。       
                  
 [配套软件下载](#配套软件下载)   
@@ -67,4 +67,4 @@ cd c:\windows\syswow64\
 然后键入以下命令并回车：           
 regsvr32 c:\windows\syswow64\"filename".dll~~           
 ![image](https://user-images.githubusercontent.com/73635883/194858246-108fe7f6-4950-49eb-a49f-0d7c398ff73d.png)                      
-风格参考,具体应该不会那么复杂
+风格参考,具体应该不会那么复杂,ctrl+回车发送
