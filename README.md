@@ -68,3 +68,5 @@ cd c:\windows\syswow64\
 regsvr32 c:\windows\syswow64\"filename".dll~~           
 ![image](https://user-images.githubusercontent.com/73635883/194858246-108fe7f6-4950-49eb-a49f-0d7c398ff73d.png)                      
 风格参考,具体应该不会那么复杂,ctrl+回车发送
+输入框为空时点播放就是复制上一句/播放自定义音乐.
+文件输入自动判断纯文本/音频.
